@@ -14,4 +14,4 @@ node logGenerator.js
 
 Approach Used is described in this Google Doc - https://docs.google.com/document/d/1meXJk7cC5uJSsQvcz4QLgIS2-B9PS0Fk58ru1n9S1rE/edit?usp=sharing
 
-A special mention to @sanyam-2001 who helped me get the better approach for this project.
+A special mention to <a href="https://github.com/sanyam-2001">@sanyam-2001</a> who helped me get the better approach for this project.
